@@ -9,11 +9,10 @@ unpublished evidence are not part of this repository.
 ## Published research
 
 - [Case study 01 — Australia, AI, jobs and entry/re-entry work to 2035](research/ai-jobs/) — series
-  result and a bounded Report 1 extract.
+    result and bounded extracts from Reports 1–3.
 
-The GitHub Pages site provides the primary reader journey through each question, result, limitation
-and retest route.
-
+  The [GitHub Pages site](https://ourresilientworld.github.io/AI-Policy/) provides the primary reader
+  journey through each question, result, limitation and retest route.
 ## Contribute
 
 Use the repository issue forms to propose a correction, submit new evidence, outline a research
