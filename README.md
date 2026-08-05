@@ -6,7 +6,7 @@ This repository publishes reader-ready derivatives only after source filtering, 
 Product Owner acceptance and human transfer. Working records, credentials, personal information and
 unpublished evidence are not part of this repository.
 
-## Published research
+ ## Published research
 
   - [Case study 01 — Australia, AI, jobs and entry/re-entry work to 2035 — series result and bounded extracts from Reports 1–
   3.](https://ourresilientworld.github.io/AI-Policy/research/ai-jobs/index.html)
