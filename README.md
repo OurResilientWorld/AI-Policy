@@ -8,13 +8,13 @@ unpublished evidence are not part of this repository.
 
    ## Published research
 
-  - [Case study 01 — Australia, AI, jobs and entry/re-entry work to 2035 — series result and bounded extracts from Reports 1–
-  3.][case-study]
+- [Case study 01 — Australia, AI, jobs and entry/re-entry work to 2035][ai-jobs]
+- [Case study 02 — Australia's AI resilience and readiness to 2035][ai-resilient-australia]
+- [Browse all AI Policy research pages][ai-policy-pages]
 
-  -  [The AI Policy pages provide a summary of all AI policy reports produced by Our Resilient World.][ai-policy-pages]
-
-  [case-study]: https://ourresilientworld.github.io/AI-Policy/research/ai-jobs/index.html
-  [ai-policy-pages]: https://ourresilientworld.github.io/AI-Policy/
+[ai-jobs]: https://ourresilientworld.github.io/AI-Policy/research/ai-jobs/index.html
+[ai-resilient-australia]: https://ourresilientworld.github.io/AI-Policy/research/ai-resilient-australia/index.html
+[ai-policy-pages]: https://ourresilientworld.github.io/AI-Policy/
 
 ## Contribute
 
