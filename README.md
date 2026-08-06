@@ -10,10 +10,12 @@ unpublished evidence are not part of this repository.
 
 - [Case study 01 — Australia, AI, jobs and entry/re-entry work to 2035][ai-jobs]
 - [Case study 02 — Australia's AI resilience and readiness to 2035][ai-resilient-australia]
+- [Case study 03 — AI data centres: the public-interest test][ai-data-centres]
 - [Browse all AI Policy research pages][ai-policy-pages]
 
 [ai-jobs]: https://ourresilientworld.github.io/AI-Policy/research/ai-jobs/index.html
 [ai-resilient-australia]: https://ourresilientworld.github.io/AI-Policy/research/ai-resilient-australia/index.html
+[ai-data-centres]: https://ourresilientworld.github.io/AI-Policy/research/ai-data-centres/index.html
 [ai-policy-pages]: https://ourresilientworld.github.io/AI-Policy/
 
 ## Contribute
