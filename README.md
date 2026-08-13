@@ -18,6 +18,16 @@ unpublished evidence are not part of this repository.
 [ai-data-centres]: https://ourresilientworld.github.io/AI-Policy/research/ai-data-centres/index.html
 [ai-policy-pages]: https://ourresilientworld.github.io/AI-Policy/
 
+## Policy responses
+
+Consultation submissions, responses to discussion papers and proposals addressed to public decision-makers.
+
+- [From Guardrails to National Resilience][policy-response-01] — Feedback on Shaping the Future of AI for Australia—and why communities should use AI to set the priorities.
+- [Browse Policy Responses][policy-responses]
+
+[policy-response-01]: https://ourresilientworld.github.io/AI-Policy/policy-responses/from-guardrails-to-national-resilience/index.html
+[policy-responses]: https://ourresilientworld.github.io/AI-Policy/policy-responses/index.html
+
 ## Contribute
 
 Use the repository issue forms to propose a correction, submit new evidence, outline a research
