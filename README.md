@@ -28,6 +28,16 @@ Consultation submissions, responses to discussion papers and proposals addressed
 [policy-response-01]: https://ourresilientworld.github.io/AI-Policy/policy-responses/from-guardrails-to-national-resilience/index.html
 [policy-responses]: https://ourresilientworld.github.io/AI-Policy/policy-responses/index.html
 
+## AI Simulations
+
+Interactive examples for exploring priorities, trade-offs and declared assumptions. These simulations support discussion; they are not surveys, forecasts or predictions.
+
+- [Bega Valley community resilience trade-off simulation][bega-valley-simulation] — Distribute 100 effort points across six connected action areas and inspect an explicitly synthetic citizens' response summary.
+- [Browse AI Simulations][ai-simulations]
+
+[bega-valley-simulation]: https://ourresilientworld.github.io/AI-Policy/simulations/bega-valley-community-resilience/index.html
+[ai-simulations]: https://ourresilientworld.github.io/AI-Policy/simulations/index.html
+
 ## Contribute
 
 Use the repository issue forms to propose a correction, submit new evidence, outline a research
