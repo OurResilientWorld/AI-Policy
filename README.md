@@ -34,10 +34,12 @@ Interactive examples for exploring priorities, trade-offs and declared assumptio
 
 - [Bega Valley community resilience trade-off simulation][bega-valley-simulation] — Distribute 100 effort points across six connected action areas and inspect an explicitly synthetic citizens' response summary.
 - [Australia bushfire resilience cost and timing simulation][australia-bushfire-simulation] — Test four resilience actions and compare remaining losses, intervention spending and total scenario costs to 2035 or 2050.
+- [Demo Bushfire Readiness Simulator][demo-bushfire-readiness-simulation] — Compare business-as-usual risk with the risk remaining after four selected actions and test how an Extreme El Niño assumption changes their relative effect.
 - [Browse AI Simulations][ai-simulations]
 
 [bega-valley-simulation]: https://ourresilientworld.github.io/AI-Policy/simulations/bega-valley-community-resilience/index.html
 [australia-bushfire-simulation]: https://ourresilientworld.github.io/AI-Policy/simulations/australia-bushfire-resilience/index.html
+[demo-bushfire-readiness-simulation]: https://ourresilientworld.github.io/AI-Policy/simulations/demo-bushfire-readiness/index.html
 [ai-simulations]: https://ourresilientworld.github.io/AI-Policy/simulations/index.html
 
 ## Contribute
